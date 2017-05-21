@@ -13,3 +13,9 @@ Three different kinds of methods of sliding window. you can see seperated files 
   * test.ppm
   * lena512.png
   * rules of 3x3 sliding window.PNG
+  * (update for rules. In this solution, two collection of rules are used to make decision but it can be
+     more than two for better detection. According to the paper of Begol, Moslem and Maghooli,Keivan, 'Improving Digital Image Edge 
+     Detection by Fuzzy Systems' World Academy of Science, Engineering and Technology International Journal of Computer,
+     Electrical, Automation, Control and Information Engineering Vol:5, No:9, 2011. For quick info i will add 'updaterules.png' file 
+     which is prt sc of the rules part of the paper)
+ 
