@@ -19,3 +19,8 @@ Three different kinds of methods of sliding window. you can see seperated files 
      Electrical, Automation, Control and Information Engineering Vol:5, No:9, 2011. For quick info i will add 'updaterules.png' file 
      which is prt sc of the rules part of the paper)
  
+
+# FISandFirstOrder.m
+authors: Mahdiyeh Alimohammadi, Javad Pourdeilami and Ali A. Pouyan  paper name: 'Edge Detection Using Fuzzy Inference Rules and First Order Derivation' 2013 13th Iranian Conference on Fuzzy Systems (IFSC)
+
+-> to use [ShannonEntropy](https://github.com/okanokumus/Programming/blob/master/MATLAB/ShannonEntropy.m) 
