@@ -8,7 +8,7 @@ Different kinds of solution from literature will be applied. An application for 
 # EdgeDetectors
 A GUI is to compare classical edge detection methods like Canny, Sobel, Prewitt, Kirsch  and Fuzzy Edge Detection methods like sliding window and gradient. Some screenshots from the demo as below
 
--> Directly download the .exe file click [here](https://drive.google.com/open?id=0B7ZHq_Ku5l_WbkdlWG5xdmg2NVU).
+-> Directly download the .exe file click [here](https://github.com/okanokumus/Fuzzy_Edge_Detection/blob/master/EdgeDetectors/DEMO/for_redistribution_files_only/EdgeDetectors.exe). (then click 'View Raw' to download)
 
 open the demo
 ![open](https://github.com/okanokumus/Fuzzy_Edge_Detection/blob/master/EdgeDetectors/screenshots/1-open.PNG)
