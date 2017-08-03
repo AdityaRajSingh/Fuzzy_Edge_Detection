@@ -325,9 +325,9 @@ y5=max(y4,x6);
 y6=max(y5,x7);
 kirsch_im=max(y6,x8); % result image
 axes(handles.imgshow);
-im_write = kirsch_im;  % for 'save to file' option
 % image mapping in the interval of 0 to 255
 kirsch_im = (255)*((kirsch_im-min(kirsch_im(:)))/(max(kirsch_im(:))-min(kirsch_im(:))));
+im_write = kirsch_im;  % for 'save to file' option
 imshow (kirsch_im,[]);
 
 % --- Executes on button press in mag_of_grad.
@@ -376,10 +376,6 @@ global im_write Gdir
 axes(handles.imgshow);
 im_write = Gdir;  % for 'save to file' option
 imshow(Gdir,[])
-
-
-
-
 
 % --- Executes on button press in twobytwosliding.
 function twobytwosliding_Callback(hObject, eventdata, handles)
@@ -613,7 +609,6 @@ function edit2_Callback(hObject, eventdata, handles)
 
 % Hints: get(hObject,'String') returns contents of edit2 as text
 %        str2double(get(hObject,'String')) returns contents of edit2 as a double
-
 
 % --- Executes during object creation, after setting all properties.
 function edit2_CreateFcn(hObject, eventdata, handles)
